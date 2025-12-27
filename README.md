@@ -73,6 +73,7 @@ Full-Wave Rectrifier:
 
 ![WhatsApp Image 2025-12-27 at 10 19 03 AM](https://github.com/user-attachments/assets/ce16a732-c7f7-47e8-92da-535ee73c6dfd)
 
+
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
