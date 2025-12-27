@@ -54,6 +54,8 @@ TABULAR COLUMN:
 
 Bridge rectifier:
 
+<img width="915" height="724" alt="image" src="https://github.com/user-attachments/assets/451d080e-2594-4b76-b40b-6515e781b73a" />
+
 
 Bridge rectifier without filter:
 
@@ -74,12 +76,16 @@ WAVEFORM:
 Half-Wave Rectifier:
 
 ![WhatsApp Image 2025-12-27 at 10 16 53 AM](https://github.com/user-attachments/assets/1e3d686a-8ab7-46ab-8b11-fd22068ba4cc)
+
 <img width="1836" height="872" alt="image" src="https://github.com/user-attachments/assets/7bdd4e3d-1dad-435a-a1a1-15afbca6e464" />
 
 
 Full-Wave Rectrifier:
 
 ![WhatsApp Image 2025-12-27 at 10 19 03 AM](https://github.com/user-attachments/assets/ce16a732-c7f7-47e8-92da-535ee73c6dfd)
+
+<img width="1866" height="931" alt="image" src="https://github.com/user-attachments/assets/cf22429d-30c7-49b2-b684-ddf66aeed339" />
+
 
 
 
